@@ -1,0 +1,4 @@
+# chspringboot_zookeeper_dubbo
+springboot2.0.3整合zookeeper跟dubbo
+
+服务提供者注册成功之后可以用dubbo admin查看,当dubbo admin里面如果没有你注册的服务则说明注册不成功.
